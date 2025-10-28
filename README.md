@@ -1,6 +1,6 @@
 # MAGENTA: Magnitude and Geometry-Enhanced Training Approach for Robust Long-Tailed Sound Event Localization and Detection (SELD)
 
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/abs/2509.15599)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.15599-b31b1b.svg)](https://arxiv.org/abs/2509.15599)
 [![License: TBD](https://img.shields.io/badge/License-TBD-lightgrey.svg)](TBD)
 
 This repository contains the official PyTorch implementation for the paper: **MAGENTA: Magnitude and Geometry-Enhanced Training Approach for Robust Long-Tailed Sound Event Localization and Detection**.
